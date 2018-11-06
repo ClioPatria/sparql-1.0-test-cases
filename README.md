@@ -1,3 +1,9 @@
+# Test data for SPARQL 1.0
+
+This repo contains the test data used   for  the first ClioPatria SPARQL
+endpoint implementation as well as the SeRQL  endpoint. We have out this
+in a seperate repository to keep the implementation clean.
+
 The ARQ test-set comes from the Jena   project.  It was downloaded using
 CVS from
 
